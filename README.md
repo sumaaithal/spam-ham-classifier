@@ -11,7 +11,6 @@ steps followed to build a machine learning model are:
         <li>build the train test split</li>
         <li>convert from email to text</li>
         <li>build custom transformers to convert Emails to word counters(EmailToWordCounterTransformer,WordCounterToVectorTransformer)</li>
-        
     </ul>
   <li>creating pipeline to fit the previously defined trasnfomers</li>
   <li>train the logistic regression model to a data</li>
